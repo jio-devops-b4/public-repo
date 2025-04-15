@@ -1,4 +1,4 @@
 gajuwaka
-madhapur
+madhapur: 40
 rtc x road
 anakapalle
