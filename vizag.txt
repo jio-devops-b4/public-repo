@@ -3,3 +3,5 @@ madhapur: 40
 rtc x road
 anakapalle
 paderu
+d2
+
